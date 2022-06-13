@@ -1,0 +1,50 @@
+.navbar-brand {font-family: 'Bowlby One SC', cursive;}
+
+.sello{padding-left: 3%;padding-top: 2%;}
+
+main p {font-size: 20px;padding-top: 0px; 
+    background-color: rgb(168, 212, 107);margin-top: 1%;
+    font-family: sans-serif;
+    font-weight: bolder; 
+    }
+    hr {margin-bottom: 0px; font-family: sans-serif;
+    font-weight: bolder ;}
+
+    main p{ font-family: 'Roboto', sans-serif;}
+
+.main_footer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: rgb(141, 136, 136);
+    padding: 0%;
+    }
+
+.footer_container{flex-direction: column;
+    padding: 0%;
+    }
+
+.footer_rrss{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.a_social{
+    padding: 0px 20px;
+}
+
+.icon_social{
+    font-size: 1.5em;
+    }
+.footer_copy{
+    background-color: rgb(62, 53, 53);
+    margin-top: 20px;
+    margin-bottom: 0%;
+    }
+.copy{text-align: center;
+color: antiquewhite;
+font-size: smaller;
+padding: 10px;
+
+
+}
